@@ -1,4 +1,4 @@
-package cache2go
+package cache
 
 import (
 	"strconv"
